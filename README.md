@@ -1,3 +1,7 @@
+# Deprecated 
+
+World is changing, Lifen too. Current challenge is about Kubernetes on https://github.com/honestica/devops-jobs-v2
+
 # Lifen Devops Challenge
 
  Looking for a job? Check out our [open positions](https://www.welcometothejungle.co/companies/lifen/jobs). 
